@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Dion, and I am a recent graduate of Computer Systems Technology program from the British Columbia Institute of Technology. I am passionate about learning new aspects of development, design and people.
+
 <!--
 **dionkodhyat/dionkodhyat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
