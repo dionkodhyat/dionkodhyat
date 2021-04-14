@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-Software Developer Student 
+Software Developer 
 
 
 <!--
